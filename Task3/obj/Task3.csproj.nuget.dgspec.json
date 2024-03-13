@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alekseygraunov/Downloads/TaskDZ/Task3/Task3.csproj": {}
+    "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj": {}
   },
   "projects": {
-    "/Users/alekseygraunov/Downloads/TaskDZ/Task3/Task3.csproj": {
+    "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alekseygraunov/Downloads/TaskDZ/Task3/Task3.csproj",
+        "projectUniqueName": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "/Users/alekseygraunov/Downloads/TaskDZ/Task3/Task3.csproj",
-        "packagesPath": "/Users/alekseygraunov/.nuget/packages/",
-        "outputPath": "/Users/alekseygraunov/Downloads/TaskDZ/Task3/obj/",
+        "projectPath": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj",
+        "packagesPath": "C:\\Users\\root.COGRANDL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alekseygraunov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\root.COGRANDL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
