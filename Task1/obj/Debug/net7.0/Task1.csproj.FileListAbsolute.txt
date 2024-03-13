@@ -1,0 +1,14 @@
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/bin/Debug/net7.0/Task1
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/bin/Debug/net7.0/Task1.dll
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.dll
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/Debug/net7.0/ref/Task1.dll
