@@ -12,3 +12,17 @@
 /Users/alekseygraunov/Downloads/TaskDZ/Task2/obj/Debug/net7.0/Task2.pdb
 /Users/alekseygraunov/Downloads/TaskDZ/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
 /Users/alekseygraunov/Downloads/TaskDZ/Task2/obj/Debug/net7.0/ref/Task2.dll
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/bin/Debug/net7.0/Task2
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/bin/Debug/net7.0/Task2.dll
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.dll
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task2/obj/Debug/net7.0/ref/Task2.dll
