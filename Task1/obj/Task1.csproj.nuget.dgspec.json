@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alekseygraunov/Downloads/TaskDZ/Task1/Task1.csproj": {}
+    "/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task1/Task1.csproj": {}
   },
   "projects": {
-    "/Users/alekseygraunov/Downloads/TaskDZ/Task1/Task1.csproj": {
+    "/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alekseygraunov/Downloads/TaskDZ/Task1/Task1.csproj",
+        "projectUniqueName": "/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/Users/alekseygraunov/Downloads/TaskDZ/Task1/Task1.csproj",
+        "projectPath": "/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task1/Task1.csproj",
         "packagesPath": "/Users/alekseygraunov/.nuget/packages/",
-        "outputPath": "/Users/alekseygraunov/Downloads/TaskDZ/Task1/obj/",
+        "outputPath": "/Users/alekseygraunov/Downloads/TaskDZ/TASKDZ/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alekseygraunov/.nuget/NuGet/NuGet.Config"
