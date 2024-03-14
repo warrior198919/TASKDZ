@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj": {}
+    "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\TASKDZ\\task3\\Task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj": {
+    "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\TASKDZ\\task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj",
+        "projectUniqueName": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\TASKDZ\\task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\Task3.csproj",
+        "projectPath": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\TASKDZ\\task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\root.COGRANDL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\taskdz\\task3\\obj\\",
+        "outputPath": "C:\\Users\\root.COGRANDL\\Desktop\\TASKDZ\\TASKDZ\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root.COGRANDL\\AppData\\Roaming\\NuGet\\NuGet.Config"
